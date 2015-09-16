@@ -1,2 +1,3 @@
 # ExampleHealthDashboard
-This is an example of what a Health Data Dashboard could look like
+This repo contains data, scripts and an example dashboard for 
+Health modeling
